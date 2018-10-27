@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  man_user: one
+  woman_user: one
+
+two:
+  man_user: two
+  woman_user: two

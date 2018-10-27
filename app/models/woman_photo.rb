@@ -1,0 +1,2 @@
+class WomanPhoto < ApplicationRecord
+end

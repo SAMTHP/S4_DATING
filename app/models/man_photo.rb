@@ -1,0 +1,2 @@
+class ManPhoto < ApplicationRecord
+end

@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  positive_acceptance: one
+  conversation: one
+
+two:
+  positive_acceptance: two
+  conversation: two
