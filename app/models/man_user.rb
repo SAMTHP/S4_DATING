@@ -1,4 +1,10 @@
 class ManUser < ApplicationRecord
+	validates :first_name, presence: true
+	validates :last_name, presence: true
+	validates :detail, presence: true
+	validates :pseudo, presence: true
+	validates :email, presence: true
+
 	belongs_to :celib
 
 	has_many :man_photos
